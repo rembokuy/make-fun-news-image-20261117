@@ -1,10 +1,8 @@
 # The World in One Page — Tuesday, 17 November 2026
 
-![Owner](https://img.shields.io/badge/owner-%40rembo--makmur-blue)
-![Repo](https://img.shields.io/badge/repo-make--fun--news--image--20261117-green)
-![Date](https://img.shields.io/badge/date-17%20November%202026-red)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Image](https://img.shields.io/badge/image-1024%C3%971024%20PNG-orange)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/rembokuy/make-fun-news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/rembokuy/make-fun-news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 **One page. One day. Seven stories that defined Tuesday, 17 November 2026.**
 
